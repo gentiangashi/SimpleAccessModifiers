@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleAccessModifiers", "SimpleAccessModifiers\SimpleAccessModifiers.csproj", "{FCDBDB4B-6406-45DD-A304-EE9B012CA093}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessModifiersDll", "AccessModifiersDll\AccessModifiersDll.csproj", "{5539CCD9-2AF1-4510-A216-AE4CBA81F34F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCDBDB4B-6406-45DD-A304-EE9B012CA093}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCDBDB4B-6406-45DD-A304-EE9B012CA093}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCDBDB4B-6406-45DD-A304-EE9B012CA093}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCDBDB4B-6406-45DD-A304-EE9B012CA093}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5539CCD9-2AF1-4510-A216-AE4CBA81F34F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5539CCD9-2AF1-4510-A216-AE4CBA81F34F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5539CCD9-2AF1-4510-A216-AE4CBA81F34F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5539CCD9-2AF1-4510-A216-AE4CBA81F34F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CECE24C2-46D6-4435-AB5F-823EF5C9B7D9}
+	EndGlobalSection
+EndGlobal
